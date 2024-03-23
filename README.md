@@ -1,2 +1,2 @@
 # projects
-This project1 is about a "ToDo" list
+This   a simple "ToDo" list with vanilla javascript
